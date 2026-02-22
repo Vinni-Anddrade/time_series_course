@@ -3,3 +3,6 @@
 
 0.0.2 - Section 7: Holt-Winters Capstone Project: Air miles
     - Creating analysis and prediction for Air Miles problem.
+
+0.0.3 - Section 8: ARIMA, SARIMA and SARIMAX
+    - Making analysis of ARIMA, SARIMA and SARIMAX on revenue data
