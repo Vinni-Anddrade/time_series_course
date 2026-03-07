@@ -6,3 +6,6 @@
 
 0.0.3 - Section 8: ARIMA, SARIMA and SARIMAX
     - Making analysis of ARIMA, SARIMA and SARIMAX on revenue data
+
+0.0.4 - Section 10: (Facebook) Prophet
+    - Creating notebook of prophet studies
