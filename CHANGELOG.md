@@ -9,3 +9,6 @@
 
 0.0.4 - Section 10: (Facebook) Prophet
     - Creating notebook of prophet studies
+
+0.0.5 - Section 11: Capstone Project: Prophet
+    - Create project with prophet to forecast amount of individuals in shelters
